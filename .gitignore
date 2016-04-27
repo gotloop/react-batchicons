@@ -31,3 +31,10 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+#Intellij IDEA
+*.iml
+.idea
+
+#temp dir
+src/svg/*.svg

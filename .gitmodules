@@ -1,0 +1,3 @@
+[submodule "Batch"]
+	path = Batch
+	url = https://github.com/AdamWhitcroft/Batch.git
